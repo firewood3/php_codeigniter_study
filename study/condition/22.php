@@ -1,4 +1,5 @@
 <?php
+// and는 && or는 ||로 사용가능하다.
 if (!true and !true){
     echo 1;
 }
