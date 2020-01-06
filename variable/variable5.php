@@ -8,6 +8,6 @@ $title = 'subject';
 // $$title ==> $subject
 $$title = 'PHP tutorial';
 echo $subject; # PHP tutorial
-?>
+?> 
 </body>
 </html>

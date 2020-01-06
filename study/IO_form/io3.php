@@ -1,3 +1,3 @@
 <?php
-echo $_POST['id'].','.$_POST['password'];
+echo $_POST['id'].','.$_POST['password']
 ?>

@@ -1,0 +1,6 @@
+{
+    "require" : {
+        "michelf/php-markdown" : "1.9.0",
+        "dflydev/markdown": "1.0.*"
+    }
+}
